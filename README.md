@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+  My name is "Pragya Singh'
 
 
  🔭 I’m currently working on ...Flutter
